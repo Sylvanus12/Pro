@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="ttf" type="Font" />
       <mapping ext="mp3" type="Native" />
       <mapping ext="ttf" type="Native" />
+      <mapping ext="dmp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
